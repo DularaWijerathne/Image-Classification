@@ -1,0 +1,6 @@
+Image Classification with TensorFlow and Keras:
+
+Developed an image classification script using TensorFlow and Convolutional Neural Networks (CNNs), 
+utilizing the Keras dataset with ten classifications. Trained the neural network to recognize those and then
+applied the model to classify images from the internet, 
+demonstrating its real-world applicability and accuracy. 
